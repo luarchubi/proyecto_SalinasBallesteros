@@ -1,8 +1,8 @@
 function Cart() {
   return (
-    <span>
-             <img src="src/components/img/cart.png" alt="cart" />
-          </span>
+    <div >
+             <img src="src/components/img/cart.png" alt="cart" className="carrito"/>
+          </div>
   );
 }
 
