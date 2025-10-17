@@ -18,5 +18,11 @@ a {
 }
 
 p {
-  color: #BFA181;
+  color: #bfa181;
+}
+
+img {
+  height: 32px;
+  width: 32px;
+  padding: 3px
 }
