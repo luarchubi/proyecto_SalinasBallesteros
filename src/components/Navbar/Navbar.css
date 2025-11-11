@@ -1,0 +1,17 @@
+.navBar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 2rem;
+  margin: 0;
+  background-color: #0a1828;
+  color: black;
+}
+ul {
+  display: flex;
+}
+
+li {
+  padding: 1rem;
+  margin: 1rem;
+  color: white;
+}

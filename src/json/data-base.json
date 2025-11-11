@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "stock": 17,
+    "genero": "Realismo mágico",
+    "descripcion": "La historia de la familia Buendía a lo largo de varias generaciones en el mítico pueblo de Macondo.",
+    "imagen_portada": "https://example.com/portadas/cien-anos-de-soledad.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "stock": 19,
+    "genero": "Distopía",
+    "descripcion": "Una crítica al totalitarismo a través de la vida de Winston Smith en una sociedad vigilada por el Gran Hermano.",
+    "imagen_portada": "https://example.com/portadas/1984.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "stock": 16,
+    "genero": "Novela",
+    "descripcion": "Las aventuras del ingenioso hidalgo Don Quijote y su fiel escudero Sancho Panza.",
+    "imagen_portada": "https://example.com/portadas/don-quijote.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "stock": 13,
+    "genero": "Romance",
+    "descripcion": "Elizabeth Bennet navega las complejidades del amor, la familia y la sociedad en la Inglaterra del siglo XIX.",
+    "imagen_portada": "https://example.com/portadas/orgullo-y-prejuicio.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "stock": 10,
+    "genero": "Drama",
+    "descripcion": "Una niña observa los prejuicios raciales en su pueblo del sur de Estados Unidos durante los años 30.",
+    "imagen_portada": "https://example.com/portadas/matar-a-un-ruisenor.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "El gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "stock": 15,
+    "genero": "Tragedia",
+    "descripcion": "El millonario Jay Gatsby organiza fastuosas fiestas con la esperanza de recuperar un amor perdido.",
+    "imagen_portada": "https://example.com/portadas/el-gran-gatsby.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoievski",
+    "stock": 16,
+    "genero": "Psicológica",
+    "descripcion": "Un joven estudiante comete un asesinato y lucha con la culpa y la redención moral.",
+    "imagen_portada": "https://example.com/portadas/crimen-y-castigo.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "El señor de los anillos",
+    "autor": "J. R. R. Tolkien",
+    "stock": 14,
+    "genero": "Fantasía",
+    "descripcion": "La épica travesía para destruir el Anillo Único y vencer al Señor Oscuro Sauron.",
+    "imagen_portada": "https://example.com/portadas/el-senor-de-los-anillos.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J. K. Rowling",
+    "stock": 50,
+    "genero": "Fantasía",
+    "descripcion": "Un joven huérfano descubre que es mago y asiste a la escuela Hogwarts de Magia y Hechicería.",
+    "imagen_portada": "https://example.com/portadas/harry-potter-piedra-filosofal.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "stock": 11,
+    "genero": "Experimental",
+    "descripcion": "Una novela que puede leerse en múltiples órdenes, explorando el amor, la existencia y el absurdo.",
+    "imagen_portada": "https://example.com/portadas/rayuela.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Los juegos del hambre",
+    "autor": "Suzanne Collins",
+    "stock": 7,
+    "genero": "Ciencia ficción",
+    "descripcion": "En un futuro distópico, Katniss Everdeen lucha por sobrevivir en un torneo televisado a muerte.",
+    "imagen_portada": "https://example.com/portadas/los-juegos-del-hambre.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "stock": 5,
+    "genero": "Distopía",
+    "descripcion": "En un mundo donde los libros están prohibidos, un bombero comienza a cuestionar el sistema.",
+    "imagen_portada": "https://example.com/portadas/fahrenheit-451.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "stock": 0,
+    "genero": "Misterio",
+    "descripcion": "Un niño descubre un libro maldito y se ve envuelto en un enigma que atraviesa generaciones.",
+    "imagen_portada": "https://example.com/portadas/la-sombra-del-viento.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "stock": 8,
+    "genero": "Ficción espiritual",
+    "descripcion": "Un joven pastor andaluz busca un tesoro en Egipto mientras aprende sobre el destino y los sueños.",
+    "imagen_portada": "https://example.com/portadas/el-alquimista.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "stock": 10,
+    "genero": "Épica",
+    "descripcion": "El largo viaje de Odiseo para regresar a Ítaca tras la guerra de Troya.",
+    "imagen_portada": "https://example.com/portadas/la-odisea.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "stock": 7,
+    "genero": "Fantasía",
+    "descripcion": "Kvothe narra su vida: desde su niñez en una troupe de artistas hasta convertirse en una leyenda.",
+    "imagen_portada": "https://example.com/portadas/el-nombre-del-viento.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "stock": 12,
+    "genero": "Realismo mágico",
+    "descripcion": "Una saga familiar marcada por el amor, la política y la presencia de lo sobrenatural en Chile.",
+    "imagen_portada": "https://example.com/portadas/la-casa-de-los-espiritus.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "stock": 110,
+    "genero": "Terror",
+    "descripcion": "Un conde vampiro de Transilvania llega a Inglaterra para extender su maldición.",
+    "imagen_portada": "https://example.com/portadas/dracula.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "stock": 1,
+    "genero": "Filosófica",
+    "descripcion": "Un joven mantiene su belleza mientras su retrato envejece, reflejando su corrupción moral.",
+    "imagen_portada": "https://example.com/portadas/el-retrato-de-dorian-gray.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "stock": 9,
+    "genero": "Histórica",
+    "descripcion": "La construcción de una catedral en la Edad Media entrelaza ambición, amor y traición.",
+    "imagen_portada": "https://example.com/portadas/los-pilares-de-la-tierra.jpg"
+  }
+]

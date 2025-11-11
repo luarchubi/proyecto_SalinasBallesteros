@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #3a579f;
+  margin: auto;
+  gap: 1rem;
+  width: 90%;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  font-size: small;
+  margin: 0;
+}
+p {
+  text-align: center;
+}
+
+.btn-add-book {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
